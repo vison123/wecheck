@@ -16,8 +16,8 @@ function isEmpty(value) {
     return false
 }
 
-export {
+export default {
     isObject,
     isArray,
-    isEmpty
+    isEmpty,
 }
