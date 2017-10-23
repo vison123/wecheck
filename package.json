@@ -1,0 +1,19 @@
+{
+  "name": "wecheck",
+  "version": "1.0.0",
+  "description": "check object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vison123/check.git"
+  },
+  "keywords": [
+    "check"
+  ],
+  "author": "weisen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vison123/check/issues"
+  },
+  "homepage": "https://github.com/vison123/wecheck#readme"
+}
